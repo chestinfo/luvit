@@ -1,4 +1,4 @@
-# Example file for discordia
+# Przykład komendy
 local discordia = require('discordia')
 local client = discordia.Client()
 
